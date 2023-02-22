@@ -1,0 +1,16 @@
+.ui-accordion .ui-accordion-header{
+    width: 100%;
+    text-align: left;
+}
+
+#faq-search{
+    width: 100%;
+}
+
+.faq{
+    margin-top: 10px !important;
+}
+
+#faq-search{
+    margin-bottom: 15px;
+}
