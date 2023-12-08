@@ -4,7 +4,6 @@
 * Plugin Name: FAQ With AJAX Search
 * Description: Add Multiple FAQ & Also AJAX Search Option
 * Author: Jawad Abbasi
-* Author URI: https://jawad-developer.com
 * Version: 1.0
 * Text Domain: fwas
 
